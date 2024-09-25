@@ -1,5 +1,5 @@
 # 데이터 탐색 연습문제
-
+[연습문제 정리](https://github.com/osm1315/SQL/blob/main/데이터%20탐색%20연습문제.md)
 
 # SQL 작성하는 흐름
 
@@ -24,7 +24,8 @@
 
 템플릿을 쉽게 사용
 
-[Espanso](https://espanso.org)
+[Espanso 링크](https://espanso.org)
+
 특정 단어를 입력하면 원하는 문장(템플릿)으로 변경 가능
 
 특정 단어가 감지되면 정의된 것으로 바꿔줌
